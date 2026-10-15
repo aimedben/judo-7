@@ -1,0 +1,6 @@
+{
+  "summary": "Plan d'implémentation complet pour l'architecture offline-first de Judo Club Seddouk avec synchronisation Supabase PostgreSQL (offre gratuite), persistance locale SQLite/Room, file d'attente d'opérations idempotente, dialogue de fermeture sécurisé, compression WebP des photos et résolution des conflits par horodatage et journal d'audit.",
+  "updatedAt": "2026-10-14T18:04:27.931321575Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
